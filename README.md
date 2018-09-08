@@ -83,6 +83,8 @@ Program for Data Structure Operation in C Language
 
 # STACK_LI.C
 
+(Stack Operations on Linked List)
+
 1. Push operation
 2. Display Stack items
 3. Pop operation
