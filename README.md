@@ -64,6 +64,10 @@ Program for Data Structure Operation in C Language
 10. Sort the list
 
 
+# MERGE.C
+
+1. Merging two Linked List
+
 # QUEUE_LI.C
 
 (QUEUE Operation on Linked List)
